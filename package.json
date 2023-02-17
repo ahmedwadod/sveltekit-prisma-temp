@@ -1,6 +1,6 @@
 {
-	"name": "serverman",
-	"description": "A server managment agent",
+	"name": "svelte_prisma_temp",
+	"description": "A template sveltekit+prisma project",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {

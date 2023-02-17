@@ -1,1 +1,1 @@
-<h1 class="text-4xl text-sky-700">Serverman</h1>
+<h1 class="text-4xl text-sky-700">Hello, World!</h1>
